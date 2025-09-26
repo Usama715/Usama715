@@ -5,15 +5,15 @@
 
 
 
-## About Me 
+## Introduction 
 
-- 💻 I am Usama Ayoub,a computer science student.  
+- 💻 I am Usama Ayoub, a computer science student.
 - 📌 My current CGPA is 3.84
 - 💞 Interests : Playing Badminton,Gardening,Learning something new
 
   
 
-## Tech Stack
+## Skills
 
 > languages,I am working with.
 <a href="https://github.com/arhamansari11/">
@@ -25,7 +25,7 @@
 ## IDEs and Tools
 <a href="https://github.com/Usama715/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=git,github,vscode,slack,discord,chatgpt,powershell" />
+  <img src="https://skills.syvixor.com/api/icons?i=git,github,vscode,slack,discord,chatgpt,powershell,streamlit,groq" />
 </p>
 </a>
 
