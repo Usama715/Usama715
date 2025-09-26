@@ -18,7 +18,7 @@
 > languages,I am working with.
 <a href="https://github.com/arhamansari11/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=python" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,c" />
 </p>
 </a>
 
